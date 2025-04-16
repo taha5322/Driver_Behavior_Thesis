@@ -1,4 +1,4 @@
-mpre 4's, no 7's
+NOTES: more 4's, no 7's
 maneuver_start,maneuver_type,duration_prior_s,fixated_obj_id,fixated_class_id,fixation_frames,total_gaze_frames
 2000,LLC,2,450,1,18,18
 2000,LLC,2,452,1,19,19
